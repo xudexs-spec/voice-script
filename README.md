@@ -16,14 +16,32 @@ You have 6,000+ thoughts a day (about 6.5 per minute; Queen's University, 2020).
 ① 捕捉 Capture     ② 加工 Process      ③ 产出 Output
   念头一闪 → 录进      skill 把它理成      跟你一样的人在说话
   Obsidian（自动同步）   你的表述
-① 捕捉：iPhone 装 Obsidian，配一个快捷指令，念头来了点一下、说一句，就录进 Obsidian——自动同步到电脑。
+① 捕捉：手机装 Obsidian，配一个「快捷捕捉」——念头来了点一下、说一句，就录进 Obsidian，自动同步到电脑。
+系统
+怎么配
+口喷
+iPhone
+快捷指令（Shortcuts），还能喊 Siri
+✅ 说一句直接录
+Android
+Quick Draft for Obsidian（免费）桌面小组件，或用系统分享 / 输入法语音
+✅ 自带语音转写
+① Capture: install Obsidian on your phone and set up a quick-capture shortcut — when a thought hits, tap once and speak; it lands in Obsidian and syncs to your computer.
+System
+How
+Voice
+iPhone
+Shortcuts app (Siri works too)
+✅ speak, it records
+Android
+Quick Draft for Obsidian (free) home-screen widget, or share-sheet / keyboard dictation
+✅ built-in transcription
 ② 加工：电脑（建议 24 小时开机）上的 skill，把你捕捉进来的念头，整理成能念的稿。
 ③ 产出：一篇"用你的措辞和句式"写成的稿——像另一个你在说话。
-这套链路已经跑通：iPhone 快捷指令 → Obsidian 同步 → 24h 开机的电脑 → skill 出稿。
-① Capture: install Obsidian on iPhone, set up a Shortcut — when a thought hits, tap once and speak; it lands in Obsidian and syncs to your computer.
+这套链路已经跑通：手机快捷捕捉 → Obsidian 同步 → 24h 开机的电脑 → skill 出稿。
 ② Process: the skill on your (ideally always-on) computer turns those captured thoughts into a speakable script.
 ③ Output: a script written in your words — like another you, speaking.
-This loop is live: iPhone Shortcut → Obsidian sync → always-on computer → skill → script.
+This loop is live: phone quick-capture → Obsidian sync → always-on computer → skill → script.
 它的立场 · Its stance
 AI 不当你的替身，当你的整理工。 你说的话是原料，AI 只负责把它理成能念的稿。那股"人味儿"，永远是你自己的。
 AI is not your ghostwriter; it's your editor. You speak; it tidies. The "human" in it stays yours.
